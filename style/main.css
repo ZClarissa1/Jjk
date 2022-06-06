@@ -1,0 +1,65 @@
+***********GENERAL*************
+body{
+	font-family: Ariel, corbel, sans-serif;
+	margin: 0;
+	background-color: #000000;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	color: red;
+	font-size: 36px;
+	padding: 0px 0 0 0;
+	text-transform: uppercase;
+	background-color: black;
+	margin: 0;
+}
+
+h2 {
+	font-size: 28px;
+	color: ghostwhite;
+	text-align: center;
+	padding: 0 0 0 0;
+	background-color: black;
+	margin: 0;
+}
+
+#image {
+	text-align: center;
+	background-color: black;
+}
+
+ul {
+	text-align: center;
+	background-color: black;
+	margin: 0;
+}
+
+a {
+	color: ghostwhite;
+	text-align: center;
+	list-style-type: none;
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 24px;
+	color: ghostwhite;
+	padding: 0 0 0 0;
+	background-color: black;
+	margin: 0;
+}
+
+p {
+	font-size: 20px;
+	color: ghostwhite;
+	padding: 0 0 0 0;
+	background-color: black;
+	margin: 0;	
+}
